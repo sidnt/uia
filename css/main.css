@@ -1,7 +1,65 @@
-i {
-  color: #00BCD4;
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
-header {
-  height: 80px;
+i {
+  color: #00BCD4;
+  font-size: 2em;
+  padding: 2rem 0;
+  border-bottom-color: blue;
+}
+
+ul {
+  font-size: 70%;
+}
+
+#specialize {
+  padding: 10rem 0;
+  background-image: url("../img/cover.jpg");
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+#pwbl {
+  background-color: #00BCD4;
+  padding: 5rem 0;
+}
+
+#pwbl-text {
+  font-size: 80%;
+  color: #333;
+}
+
+.mynavbar {
+  padding: 0.5rem 0;
+}
+
+.serviceDescription {
+  padding: 1rem;
+  background-color: #eee;
+}
+
+p {
+  font-size: 80%;
+  color: #999;
+}
+
+.sabkuchcenter {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.bg-blue {
+  border-bottom-color: blue;
+}
+
+.ourservices {
+  padding-top: 3rem;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  padding: 1rem 0;
+  color: #777;
 }
